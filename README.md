@@ -6,6 +6,8 @@ This program creates Identicons based on usernames. Each Identicon is 250px x 25
 
 to run locally:
 
+First, clone down this repo. then...
+
 ```elixir
 $ mix deps.get
 $ iex -S mix
