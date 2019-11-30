@@ -1,6 +1,6 @@
 # Identicon
 
-**TODO: Add description**
+This program creates Identicons based on usernames. Each Identicon is 250px x 250px and mirrored along the third column. Colors are unique to usernames as well. 
 
 ## Installation
 
