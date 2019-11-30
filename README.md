@@ -9,7 +9,8 @@ to run locally:
 ```elixir
 $ mix deps.get
 $ iex -S mix
-$ Identicon.main(<USERNAME>)
+$ iex> Identicon.main(<USERNAME>)
+:ok
 ```
 
 file will be downloaded to the root directory
